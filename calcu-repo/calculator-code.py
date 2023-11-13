@@ -34,7 +34,7 @@ def calculator():
     print('=============================')
 
     operatorInput = input('Enter operator: ')
-    print('nirun after nainput ang operator')
+    # print('nirun after nainput ang operator')
     # if operatorInput == 'q':
     #   print('You selected QUIT. BYEBYE!!')
     #   break
